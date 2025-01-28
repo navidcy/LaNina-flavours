@@ -3,7 +3,7 @@
 Study of the different flavours of La Nina and the physical conditions that precede them.
 
 ### Team
-[Hanna Heidemann](@h-hdm), [Mandy Freund](@ClimateFreund), [Aditya Sengupta](@adisen99), Ruby Lieber, [Navid Constantinou](@navidcy)
+[Hanna Heidemann](@h-hdm), [Mandy Freund](@ClimateFreund), [Aditya Sengupta](@adisen99), [Ruby Lieber](@pancakes175), [Navid Constantinou](@navidcy)
 
 ### Contents
 
