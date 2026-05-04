@@ -7,6 +7,13 @@ Study of the different flavours of La Nina and the physical conditions that prec
 
 ### Contents
 
-- `ACCESS-OM2`: investigations from ACCESS-OM2 ocean model forced with JRA55-do atmospheric reanalysis from 1958-2018
+- `Figure_2`: composites of SST anomalies during CP and EP La Niña events between 1900 and 2023 in the equatorial Pacific
+
+- `Figure_4`: investigations from ACCESS-OM2 ocean model forced with JRA55-do atmospheric reanalysis from 1958-2018
 
   To access the ocean model output you need to [join the NCI projects](https://my.nci.org.au/mancini): `hh5`, `ik11`, and `cj50`.
+
+- `Figure_5_6_7`:
+  * Seasonal composites of mean sea-level pressure
+  * Seasonal evolution of rainfall anomaly composites
+  * Seasonal climatology of chlorophyll-a concentration
