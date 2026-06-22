@@ -11,7 +11,7 @@ Study of the different flavours of La Nina and the physical conditions that prec
 
 - `Figure_4`: investigations from ACCESS-OM2 ocean model forced with JRA55-do atmospheric reanalysis from 1958-2018
 
-  To access the ocean model output you need to [join the NCI projects](https://my.nci.org.au/mancini): `hh5`, `ik11`, and `cj50`.
+  To access the ocean model output you need to [join the NCI projects](https://my.nci.org.au/mancini): `xp65`, `ik11`, and `cj50`.
 
 - `Figure_5_6_7`:
   * Seasonal composites of mean sea-level pressure
